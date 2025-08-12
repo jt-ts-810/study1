@@ -1,0 +1,6 @@
+,cross_references,organism,pref_name,score,species_group_flag,target_chembl_id,target_components,target_type,tax_id
+0,[],Mycobacterium tuberculosis,Mycobacterium tuberculosis,15.0,False,CHEMBL360,[],ORGANISM,1773
+1,[],Mycobacterium tuberculosis H37Rv,Mycobacterium tuberculosis H37Rv,13.0,False,CHEMBL2111188,[],ORGANISM,83332
+2,[],Mycobacterium tuberculosis variant bovis,Mycobacterium tuberculosis variant bovis,12.0,False,CHEMBL613086,[],ORGANISM,1765
+3,[],Mycobacterium tuberculosis variant microti,Mycobacterium tuberculosis variant microti,12.0,False,CHEMBL612960,[],ORGANISM,1806
+4,[],Mycobacterium tuberculosis variant bovis BCG,Mycobacterium tuberculosis variant bovis BCG,10.0,False,CHEMBL615052,[],ORGANISM,33892
